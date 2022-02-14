@@ -1,6 +1,4 @@
-# GRUPO: Vinicius Atsushi, Marina Chagas, Guilherme de Souza.
-
-# Documento com descrição dos parametros de execução dos códigos
+## Documento com descrição dos parametros de execução dos códigos
 
 O código "entradas.lisp" será o arquivo.lisp a ser executado.
 Para executar as chamadas de função neste código, são carregados os outros códigos: validation.lisp e funcoes.lisp
@@ -47,3 +45,6 @@ Para ver o calendario de uma data especifica:
 -> Caso contrário, retorno = t 
 
 // ------------------------------------------------------------------------------------------------------------------------------------------//
+
+
+### GRUPO: Vinicius Atsushi, Marina Chagas, Guilherme de Souza.
